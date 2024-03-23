@@ -12,3 +12,5 @@ Things you need to know before coding:
   - while and shit
   - list mastering
   - big brain
+
+[[The second game is from another user. I stole it from him but I forgot his name lol.]]
