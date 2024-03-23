@@ -13,4 +13,4 @@ Things you need to know before coding:
   - list mastering
   - big brain
 
-[[The second game is from another user. I stole it from him but I forgot his name lol.]]
+[The second game is from another user. I stole it from him but I forgot his name lol.]
